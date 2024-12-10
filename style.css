@@ -31,9 +31,9 @@ body {
     border-color: #0056b3;
 }
 
-/*footer style */
+/* Footer style */
 footer {
-    margin-top: auto; 
+    margin-top: auto; /* Ensures the footer stays at the bottom */
     background-color: #333; /* background for the footer */
     color: white; /* White text */
     padding: 10px 0; 
